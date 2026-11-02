@@ -22,7 +22,7 @@ I'm a Network Engineer passionate about designing, managing,
 and troubleshooting large-scale network infrastructure.
 
 ### 🚀 About Me
-- Senior System Engineer at Achiever Broadband Internet
+- Senior System Engineer at Global Network Solution
 - Working with ISP Network Infrastructure & NOC Operations
 - Experienced in Routing, Switching & Network Security
 - Interested in Network Automation and Infrastructure Management
